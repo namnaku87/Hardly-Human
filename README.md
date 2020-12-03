@@ -4,7 +4,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Rehan uddin and I'm a software developer/AI Engineer. I'm from India, living in Hyderabad and currently pursing Bachelor's of Computer Science from Lovely Professional University. You can find me on 
-[![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/shaik-rehan-uddin-480325148/).
+[![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/rehan-uddin-shaik-480325148/).
 
 
 ## 🔧 Technologies & Tools

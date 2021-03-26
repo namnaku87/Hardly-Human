@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/Hardly-Human/Hardly-Human/blob/main/banner.png "Header")](https://www.iamrehan.me/)
+[![Header](https://github.com/Hardly-Human/Hardly-Human/blob/main/banner.gif "Header")](https://www.iamrehan.me/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 

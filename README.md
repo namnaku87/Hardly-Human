@@ -31,7 +31,7 @@ My name is Rehan uddin and I'm a software developer/AI Engineer. I'm from India,
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardly-Human&hide=jupyternotebook&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000" />
 </a>
 <a href="https://github.com/Hardly-Human/Hardly-Human">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hardly-Human&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000" alt="Rehan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hardly-Human&show_icons=true&line_height=46&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000" alt="Rehan's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Hardly-Human/Neural-Style-Tranfer-App">

@@ -8,14 +8,11 @@
 	<a href="mailto:rehanuddin1024@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## 👨‍💻 About Me
 
-My name is Rehan uddin and I'm a software developer/UI Designer. I'm from India, living in Hyderabad and currently pursing Bachelor's of Computer Science from Lovely Professional University. You can find me on
-[![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/rehan-uddin-shaik-480325148/).
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I am an experienced developer skilled in Full Stack Development, Machine learning, MERN, Javascript and its frameworks.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hardly-Human&label=Profile%20Views%20&color=dc143c&style=plastic" alt="Hardly-Human" /> </p>
-
-### 🛠️ &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 Technologies that I've been learning and I've picked up along my programming journey.
 
@@ -62,6 +59,16 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
+#### 🤖 ML & AI :
+
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)
+
 #### 🎨 Design :
 
 ![Figma](https://img.shields.io/badge/Figma-EE0000?logo=figma&logoColor=white)
@@ -80,7 +87,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 <h2>📃 Github Stats</h2>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hardly-Human&label=Profile%20Views%20&color=dc143c&style=plastic" alt="Hardly-Human" /> </p>
 
 <div>
 

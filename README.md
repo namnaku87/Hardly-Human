@@ -1,7 +1,7 @@
-<a href="https://www.iamrehan.me" target="_blank"><img src="./Profile-Banner.gif"></a>
+<a href="https://www.rehan.tech" target="_blank"><img src="./Profile-Banner.gif"></a>
 
 <p align="center">
-    <a href="https://www.iamrehan.me"><img src="https://img.icons8.com/bubbles/50/000000/link.png" alt="Portfolio"/></a>
+    <a href="https://www.rehan.tech"><img src="https://img.icons8.com/bubbles/50/000000/link.png" alt="Portfolio"/></a>
 	<a href="https://github.com/Hardly-Human"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rehan-uddin-shaik-480325148/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/made__of__sarcasm/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>

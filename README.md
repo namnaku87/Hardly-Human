@@ -1,5 +1,6 @@
 <a href="https://www.rehan.tech" target="_blank"><img src="./Profile-Banner.gif"></a>
 
+<hr/>
 <p align="center">
     <a href="https://www.rehan.tech"><img src="https://img.icons8.com/bubbles/50/000000/link.png" alt="Portfolio"/></a>
 	<a href="https://github.com/Hardly-Human"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -7,10 +8,15 @@
     <a href="https://www.instagram.com/made__of__sarcasm/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:rehanuddin1024@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+<hr/>
 
 ## 👨‍💻 About Me
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I am an experienced developer skilled in Full Stack Development, Machine learning, MERN, Javascript and its frameworks.
+
+
+## 💬 Ask me about anything [here](https://github.com/Hardly-Human/Hardly-Human/issues/new?assignees=Hardly-Human&labels=Say+Hello&template=say-hello.md&title=Hey%2C+I+am+<Your+Name>.).
+
 
 ## 🛠️ &nbsp;Tech Stack
 

@@ -18,6 +18,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 ## 💬 Ask me about anything [here](https://github.com/Hardly-Human/Hardly-Human/issues/new?assignees=Hardly-Human&labels=Say+Hello&template=say-hello.md&title=Hey%2C+I+am+<Your+Name>.).
 
 
+
 ## 🛠️ &nbsp;Tech Stack
 
 Technologies that I've been learning and I've picked up along my programming journey.
@@ -91,6 +92,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)
 
+<hr/>
 <h2>📃 Github Stats</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hardly-Human&label=Profile%20Views%20&color=dc143c&style=plastic" alt="Hardly-Human" /> </p>
